@@ -2,3 +2,4 @@ wheel
 django
 whitenoise
 psycopg
+psycopg2-binary
