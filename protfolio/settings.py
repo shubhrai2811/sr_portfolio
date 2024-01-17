@@ -146,3 +146,6 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # # Update STATIC_ROOT to the correct path
 # STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles_build', 'protfolio','static')
+
+STATICFILES_DIRS = os.path.join(BASE_DIR, 'static'),
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles_build', 'static')
