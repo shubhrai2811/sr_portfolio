@@ -51,7 +51,7 @@ SecretStorage
 six
 sqlparse
 
-unattended-upgrades
+
 urllib3
 usb-creator
 wadllib
