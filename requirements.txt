@@ -8,7 +8,6 @@ colorama
 cryptography
 distro
 django
-duplicity
 fasteners
 future
 httplib2
@@ -33,7 +32,6 @@ protobuf
 ptyprocess
 pycairo
 pycups
-PyGObject
 PyJWT
 pymacaroons
 PyNaCl
