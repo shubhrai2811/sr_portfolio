@@ -51,7 +51,7 @@ SecretStorage
 six
 sqlparse
 
-typing_extensions
+
 
 ufw
 unattended-upgrades
