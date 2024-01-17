@@ -10,7 +10,7 @@ defer
 distro==1.7.0
 Django==4.2.9
 django-shortcuts==1.6
-duplicity==0.8.21
+duplicity
 fasteners==0.14.1
 future==0.18.2
 httplib2==0.20.2
