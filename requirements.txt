@@ -1,5 +1,6 @@
 wheel
+pip
 django
 whitenoise
 psycopg
-psycopg2-binary
+psycopg2
