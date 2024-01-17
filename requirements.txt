@@ -53,7 +53,7 @@ sqlparse
 
 
 urllib3
-usb-creator
+
 wadllib
 whitenoise
 xdg
