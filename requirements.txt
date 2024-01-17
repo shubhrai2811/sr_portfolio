@@ -8,7 +8,6 @@ colorama
 cryptography
 distro
 django
-django.shortcuts
 duplicity
 fasteners
 future
@@ -64,4 +63,4 @@ xdg
 
 zipp
 psycopg2-binary
-psycopg
+
