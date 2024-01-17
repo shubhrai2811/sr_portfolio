@@ -7,7 +7,7 @@ click
 colorama
 cryptography
 distro
-Django
+django
 django-shortcut
 duplicity
 fasteners
